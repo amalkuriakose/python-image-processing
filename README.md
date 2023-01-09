@@ -1,5 +1,6 @@
 # JPG to PNG Converter
-Conver images from .jpg format to .png format using the Pillow library
+Conver images from .jpg format to .png format using the Pillow library.
+
 Ref - https://pillow.readthedocs.io/en/stable/installation.html
 
 ## How ro run the program
@@ -10,7 +11,7 @@ python -m pip install -r requirements.txt
 ### Run the program
 
 #### Windows
-python JPGtoPNGconverter.py <input image directory>\ <output image directory>\
+python JPGtoPNGconverter.py input_directory\ output_directory\
 
 #### Mac/Linux
-python JPGtoPNGconverter.py <input image directory>/ <output image directory>/
+python JPGtoPNGconverter.py input_directory\ output_directory\
