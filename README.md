@@ -14,4 +14,4 @@ python -m pip install -r requirements.txt
 python JPGtoPNGconverter.py input_directory\ output_directory\
 
 #### Mac/Linux
-python JPGtoPNGconverter.py input_directory\ output_directory\
+python JPGtoPNGconverter.py input_directory/ output_directory/
